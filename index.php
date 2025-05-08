@@ -102,6 +102,7 @@ if (isLoggedIn()) {
             <h1 class="gradient-text animate__animated animate__fadeInDown">Welcome to ✨ Inventory Management</h1>
             <p class="lead text-muted animate__animated animate__fadeIn animate__delay-1s">
                 A complete PHP/MySQL web application with authentication and CRUD functionality.
+                Note : Naa sa User.php ang tables sir
             </p>
             
             <div class="cta-buttons animate__animated animate__fadeInUp animate__delay-1s">

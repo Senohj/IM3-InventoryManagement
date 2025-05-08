@@ -1,7 +1,7 @@
 <?php
 $config = [
     'db_host' => 'localhost',
-    'db_name' => 'project_unique',
+    'db_name' => 'project_unique',//ako lang gi project unique ang db kay naa nay lain nga subject same name sir db para diko mag libog
     'db_user' => 'root',
     'db_pass' => ''
 ];
